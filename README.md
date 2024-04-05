@@ -1,0 +1,1 @@
+The first code sets up a working directory and checks if it exists before changing to it, handling errors if any occur. The second code opens a CSV file named "United_States.csv" and prints its contents.
